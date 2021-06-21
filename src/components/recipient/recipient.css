@@ -1,0 +1,13 @@
+.form{
+    display: flex;
+    flex-direction: column;
+}
+label{
+    color: #8b8f96;
+    margin-top: 3%;
+}
+input{
+    border-radius: 5px;
+    border: 1px solid #e8e8e8;
+    height: 5vh;
+}

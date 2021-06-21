@@ -1,5 +1,5 @@
 .card{
-    width: 35vw;
+    width: 25vw;
     border: 1px solid #f2f2f2;
     border-radius: 5px;
     margin: 3% 0 0 35%;
@@ -16,4 +16,40 @@ h2{
 }
 .input{
     display: flex;
+}
+.buttons{
+    margin-top: 5%;
+}
+.currency-input{
+    width: 95%;
+    margin-bottom: 3%;
+    border: 1px solid #e8e8e8;
+    border-radius: 5px;
+    height: 7vh;
+}
+.currency{
+    background: #f4f3f8;
+    height: 6vh;
+    width: 25%;
+    margin: 0 0 0 -28%;
+    border-radius: 5px;
+    padding: .3em;
+
+}
+.white{
+    background: #ffffff;
+    color: #4305eb;
+    height: 6vh;
+    border: 1px solid #4305eb;
+    border-radius: 5px;
+    width: 47%;
+}
+.purple{
+    background: #a98cf6;
+    color: #ffffff;
+    height: 6vh;
+    border: none;
+    border-radius: 5px;
+    width: 47%;
+    margin-left: 3%;
 }
